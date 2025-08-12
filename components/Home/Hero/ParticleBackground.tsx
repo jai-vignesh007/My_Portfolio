@@ -51,7 +51,7 @@ export default function ParticleBackground() {
           color: "#ffffff",
           distance: 150,
           enable: true,
-          opacity: 0.4,
+          opacity: 0.2,
           width: 1,
         },
         move: {
@@ -80,7 +80,7 @@ export default function ParticleBackground() {
       id="tsparticles"
       particlesLoaded={particlesLoaded}
       options={options}
-      className="absolute inset-0 "
+      className="fixed inset-0 "
     />
   );
 }
