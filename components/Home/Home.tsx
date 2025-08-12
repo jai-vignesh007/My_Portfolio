@@ -1,8 +1,15 @@
 import React from 'react'
+import Hero from './Hero/Hero'
+import About from './About/About'
+import Education from './Education/Education'
 
 const Home = () => {
   return (
-    <div className='overflow-hidden h-[2000px]'>Home</div>
+    <div className='overflow-hidden h-[20000px]'>
+        <Hero/>
+        <About/>
+        <Education/>
+    </div>
   )
 }
 
