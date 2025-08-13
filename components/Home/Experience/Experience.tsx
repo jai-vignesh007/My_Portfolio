@@ -19,7 +19,7 @@ export default function Experience() {
 
   return (
     <section id="experience" className="relative py-16 md:py-24">
-       <ParticleBackground/>
+       
       <div className="relative z-10 mx-auto w-[90%] max-w-7xl">
         
         <h2 className="mb-10 text-center text-3xl font-extrabold text-white md:mb-14 md:text-5xl">

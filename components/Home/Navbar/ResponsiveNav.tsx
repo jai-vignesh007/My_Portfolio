@@ -14,7 +14,6 @@ const closeNavHandler=()=>setShowNav(false);
     <Nav openNav={openNavHandler}/>
     <MobileNav showNav={showNav} closeNav={closeNavHandler}/>
     
-    
     </div>
   
   )

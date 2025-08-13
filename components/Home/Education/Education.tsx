@@ -49,7 +49,7 @@ const Education = () => {
   return (
     
     <section id="education" className="relative py-16 md:py-24">
-        <ParticleBackground/>
+       
       <div className="mx-auto w-[90%] max-w-7xl">
         <h2 className="mb-10 text-center text-3xl font-extrabold text-white md:mb-14 md:text-5xl">
           Degrees <span className="text-cyan-400">Received</span>

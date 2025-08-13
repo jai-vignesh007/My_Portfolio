@@ -6,7 +6,7 @@ import ParticleBackground from "../Hero/ParticleBackground";
 
 const About = () => {
   return (
-    <section id="about" className="relative overflow-hidden py-16 md:py-24">
+    <section id="About" className="relative overflow-hidden py-16 md:py-24">
       <div className="relative z-10 mx-auto w-[90%] max-w-7xl">
         <div className="grid items-center gap-12 md:grid-cols-2 lg:gap-16">
           {/* LEFT: Copy */}
