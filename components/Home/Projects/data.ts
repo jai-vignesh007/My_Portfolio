@@ -70,7 +70,7 @@ export const PROJECTS: Project[] = [
     "Blood-donor search module and an organized event photo gallery."
   ],
   repo: "https://github.com/jai-vignesh007/V-Connect",
-  images: ["/images/V-ConnectStd/NSSLogo.png","/images/V-Connect-Std/Gallery.jpg","/images/V-Connect-Std/Attendance.jpg","/images/V-Connect-Std/Blood.jpg","/images/V-Connect-Std/Settings.jpg"]
+  images: ["/images/V-Connect-Std/NSSLogo.png","/images/V-Connect-Std/Gallery.jpg","/images/V-Connect-Std/Attendance.jpg","/images/V-Connect-Std/Blood.jpg","/images/V-Connect-Std/Settings.jpg"]
 },
   {
   id: "phaila-buyer",
