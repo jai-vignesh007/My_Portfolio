@@ -78,8 +78,8 @@ export default function Skills() {
           {skills.map(s => (
             <Tilt
               key={s.id}
-              tiltMaxAngleX={20}
-              tiltMaxAngleY={20}
+              tiltMaxAngleX={30}
+              tiltMaxAngleY={30}
               scale={1.06}
               transitionSpeed={400}
               glareEnable
@@ -102,8 +102,8 @@ export default function Skills() {
           {tools.map(t => (
             <Tilt
               key={t.id}
-              tiltMaxAngleX={20}
-              tiltMaxAngleY={20}
+              tiltMaxAngleX={30}
+              tiltMaxAngleY={30}
               scale={1.06}
               transitionSpeed={400}
               glareEnable

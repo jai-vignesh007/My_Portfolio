@@ -127,7 +127,7 @@ const About = () => {
             <div className="relative h-56 w-56 rounded-full border-4 border-blue-600/40 bg-blue-500/10 md:h-64 md:w-64 lg:h-72 lg:w-72">
               {/* Replace with your image path */}
               <img
-                src="/images/MyPic.jpg"
+                src="/images/AboutMyPic.jpg"
                 alt="Jai Vignesh avatar"
                 className="h-full w-full rounded-full object-cover"
               />
