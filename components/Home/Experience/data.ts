@@ -1,5 +1,5 @@
 import type { Exp } from "./types";
-//fdfdfdfdsdcsf
+//fdfdfdfds
 export const EXPERIENCE: Exp[] = [
   {
     company: "Sagitec Solutions Pvt Ltd",
