@@ -33,7 +33,7 @@ export const PROJECTS: Project[] = [
       "ELB + CloudWatch + StatsD monitoring; ASG policies for scale-out.",
       "Jest unit/integration tests wired into CI/CD on every push.",
     ],
-    repo: "https://github.com/orgs/Jai-Vignesh-Ravichandran/repositories?q=visibility%3Apublic+archived%3Afalse",
+    repo: "https://github.com/jai-vignesh007/webapp",
     images: ["/images/Cloud/MainLogo.png","/images/Cloud/Cloud.png",  "/images/Cloud/Pipeline.png"],
   },
   {
