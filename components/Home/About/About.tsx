@@ -54,7 +54,7 @@ const About = () => {
       title: "Built for Speed & Security",
       emoji: "🚀",
       summary:
-        "Performance, security, and scalability—by default.",
+        "Performance, security, and scalability by default.",
     },
   ].map((f) => (
     <button
