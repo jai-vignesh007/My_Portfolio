@@ -78,7 +78,7 @@ const About = () => {
         focus-visible:ring-cyan-400/60
       "
     >
-      {/*  top accent linecfb */}
+      {/*top accent linecfb */}
       <span
         className="
           pointer-events-none absolute inset-x-0 top-0 h-0.5
