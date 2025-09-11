@@ -23,7 +23,7 @@ const About = () => {
             </h2>
 
             <p className="text-base leading-relaxed text-slate-300 md:text-lg">
-              Hi, I’m <span className="font-semibold text-white">Jai</span>—a{" "}
+              Hi, I’m <span className="font-semibold text-white">Jai</span> a{" "}
               <span className="font-semibold text-white">full-stack & mobile engineer</span>. I design{" "}
               <span className="font-semibold text-cyan-300">React/TypeScript</span> frontends, build{" "}
               <span className="font-semibold text-cyan-300">Java Spring Boot</span> and{" "}
@@ -34,7 +34,7 @@ const About = () => {
               security (<span className="font-semibold text-cyan-300">JWT/RBAC</span>), and clean
               automation. When I’m not scaling backends, I’m crafting{" "}
               <span className="font-semibold text-cyan-300">Flutter</span> apps that feel native.
-              Boring deploys, happy users, clear dashboards—that’s the goal. 🚀
+              Boring deploys, happy users, clear dashboards that’s the goal. 🚀
             </p>
           <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
   {[
